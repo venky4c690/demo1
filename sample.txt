@@ -3,4 +3,9 @@ venky
 hello
 dev branch added 
 dev1 branch added
+<<<<<<< HEAD
 latest commit in master
+=======
+delete branhc
+latest line commit id
+>>>>>>> dev
